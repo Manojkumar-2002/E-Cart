@@ -1,0 +1,35 @@
+body {
+    background-image: url('./assets/fun.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.parent-cont {
+    background-image: radial-gradient(#021027, #000000);
+    color: rgb(19, 178, 33);
+    max-width: 800px;
+    border-radius: 20px;
+    border: 1px solid white;
+    box-shadow: 0px 0px 30px 5px rgba(255, 255, 255, 1);
+
+}
+
+input {
+    color: blueviolet !important;
+    background-color: #021027 !important;
+}
+
+textarea {
+    color: blueviolet !important;
+    background-color: #021027 !important;
+}
+
+hr.style {
+    width: 95%;
+    margin-top: -40px;
+    border: 0;
+    border-bottom: 1px dashed black;
+    background: #70A8FF;
+}
+

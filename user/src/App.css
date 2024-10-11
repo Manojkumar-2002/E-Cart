@@ -1,0 +1,29 @@
+body {
+    background-image: url('src/assets/fun.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: none;
+}
+
+.parent-cont {
+    min-height: 100vh;
+}
+
+.parent {
+    background-image: radial-gradient(#021027,#000000);
+    border: 1px solid black;
+    box-shadow: 0 4px 6px rgb(187, 181, 181);
+}
+
+.text-color {
+    color: rgb(19, 102, 58);
+}
+
+.cart-text-color{
+    color: #cbf11195;
+    text-shadow:0 0px 20px 2px rgba(255, 240, 27, 0.24);
+}
+.link-infom:hover {
+    color: rgb(13, 149, 63);
+    cursor: pointer;
+}
